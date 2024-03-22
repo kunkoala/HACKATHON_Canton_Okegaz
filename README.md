@@ -1,5 +1,6 @@
 ## <p align="center"> How to Deploy </p>
 
+# MAKE SURE YOU HAVE THE NECESSARY ENVIRONMENT VARIABLES (OpenAI API, Twilio)
 1. Start twilio_server.js
    - `npm start`
 2. Start ngrok with `ngrok http 8080` for Twilio server
